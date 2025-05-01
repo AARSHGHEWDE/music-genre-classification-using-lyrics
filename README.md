@@ -4,6 +4,8 @@ This project investigates the potential of using **song lyrics** as a standalone
 
 ---
 
+## You can access the app from this url --> https://music-genre-classifier.streamlit.app/
+
 ## 🎯 Problem Context
 
 In the world of digital music, genre classification is a foundational task that powers streaming algorithms, music discovery tools, and playlist generation. Most solutions rely on complex audio signal processing. However, **lyrics—rich in emotion, culture, and narrative—offer genre-specific cues** often overlooked.
